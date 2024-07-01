@@ -1,5 +1,6 @@
 ## NillionNetwork
 
+<img src="https://github.com/jonhan8352/NillionNetwork/blob/main/images/nillion-network.PNG">
 Nillion is a secure computation network that decentralizes trust for high value data in the same way that blockchains decentralized transactions.
 
 # Nillion x Personalized AI
